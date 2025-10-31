@@ -1,2 +1,2 @@
 compile:
-	@ gcc main.c -o main
+	@ gcc ./main.c ./server.c -o main
